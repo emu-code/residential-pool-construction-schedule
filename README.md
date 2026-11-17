@@ -2,6 +2,12 @@
 
 A resource- and cost-loaded construction schedule for a private residential swimming pool, built in Microsoft Project. It follows the work from site survey to client handover and includes the critical path, a rate-based cost build-up and Gantt views at project start and completion.
 
+## Project Note: Personal Portfolio Project
+
+This is a personal project created for learning and portfolio demonstration. The swimming pool scenario, schedule, resources and cost estimates are illustrative; they are not taken from a live construction contract, supplier quotations or a formal market survey.
+
+The prices and rates used in the cost build-up are intuitive estimates based on my own assumptions and were put together off the top of my head to demonstrate cost loading in Microsoft Project. They should not be treated as verified or current market prices. Actual construction costs can vary significantly depending on location, project specifications, quantities, material choices, labour rates, suppliers, site conditions and the time of execution.
+
 ## Project at a Glance
 
 | | |
@@ -13,20 +19,6 @@ A resource- and cost-loaded construction schedule for a private residential swim
 | **Critical tasks** | 32 of 44 |
 | **Working calendar** | Mon to Sat; Eid-el-Fitr (10 and 11 Mar) and Easter Monday (29 Mar) excluded; Good Friday worked |
 | **Tool** | Microsoft Project |
-
-## Schedule Visuals
-
-**1. Gantt chart at project start (0% complete)**
-![Gantt chart at 0% complete](01_gantt_0pct.png)
-All 44 tasks with duration, dates, predecessors, resources and cost beside the timeline. Red bars are critical tasks and blue bars have float.
-
-**2. Gantt chart at project completion (100%)**
-![Gantt chart at 100% complete](02_gantt_100pct.png)
-Every task marked complete. Finished work shows blue because Microsoft Project does not flag completed tasks as critical.
-
-**3. Resource sheet**
-![Resource sheet](03_resource_sheet.png)
-Day rates and unit costs behind every cost figure.
 
 ## Work Breakdown and Cost
 
